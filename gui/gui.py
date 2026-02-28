@@ -59,7 +59,7 @@ class GridGUI:
 
                 color = "white"
                 if self.grid.grid[r][c] == 1:
-                    color = "Black"
+                    color = "red"   
                 elif self.grid.grid[r][c] == 2:
                     color = "orange"
                 elif self.grid.grid[r][c] == 3:
