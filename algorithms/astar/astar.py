@@ -36,4 +36,4 @@ def astar(grid, heuristic='manhattan'):
                     counter += 1
                     heapq.heappush(open_set, (new_f, counter, new_g, (nr, nc), path + [(nr, nc)]))
 
-    return None
+    return None 
