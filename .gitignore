@@ -1,0 +1,32 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+ev/
+venv/
+ENV/
+nv/
+vn/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python test cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Other temp files
+*.tmp
