@@ -10,7 +10,7 @@ Got it! You want your **new project “Dynamic Pathfinding Agent”** with **A* 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
 [![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-Educational-green.svg)](#license)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-black.svg)](https://github.com/NaeemUlRehman)
+[![GitHub](https://img.shields.io/badge/GitHub-NaeemUlRehman-blue.svg)](https://github.com/NaeemUlRehman)
 
 </div>
 
@@ -198,12 +198,13 @@ Educational Use Only – Free to learn, modify, and distribute
 
 ## Author
 
-**Your Name / Username**
+**Naeeem Ul Rehman**
 GitHub: [@NaeemUlRehman](https://github.com/https://github.com/NaeemUlRehman))
 
 ---
 
 This version mirrors the **professional style** of your previous “Blind Grid Search” README: detailed, structured, with GUI, metrics, dynamic obstacles, algorithm details, and visual color guide.
+
 
 ---
 
