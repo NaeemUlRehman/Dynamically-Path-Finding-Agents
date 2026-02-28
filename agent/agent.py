@@ -7,3 +7,5 @@ class Agent:
 	def move_to(self, row, col):
 		if not self.grid.is_obstacle(row, col):
 			self.position = (row, col)
+
+			
