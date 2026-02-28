@@ -37,4 +37,4 @@ class Grid:
     def reset(self):
         self.grid = [[0 for _ in range(self.cols)] for _ in range(self.rows)]
         self.start = None
-        self.goal = None
+        self.goal = None 
